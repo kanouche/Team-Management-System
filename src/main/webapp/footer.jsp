@@ -3,7 +3,7 @@
             <div id="bottom"></div>
         </div>
         <div id="footer">
-            Website by the AntiPatterns.
+            Website made by BEKA.
         </div>
     </body>
 </html>

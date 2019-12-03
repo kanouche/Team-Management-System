@@ -15,8 +15,8 @@
             <div id="top"></div>
             <div id="content">
                 <div class="header">
-                    <h1><a href="index.jsp">TMS: Team Management System</a></h1>
-                    <h2>by the AntiPatterns</h2>
+                    <h1><a href="index.jsp">TMS : Team Management System</a></h1>
+                    <h2>Made by BEKA</h2>
                 </div>
                 <div class="topmenu">
                     <a href="index.jsp">Home</a> ·
